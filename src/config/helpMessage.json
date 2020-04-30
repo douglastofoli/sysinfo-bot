@@ -1,0 +1,12 @@
+{
+  "message": [
+    "/start\n",
+    "/help\n",
+    "/cputemp\n",
+    "/freemem\n",
+    "/release\n",
+    "/hostname\n",
+    "/uptime\n",
+    "/ping url"
+  ]
+}

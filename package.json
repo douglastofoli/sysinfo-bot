@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Douglas Tofoli",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "knex": "^0.21.1",
+    "math": "^0.0.3",
+    "moment": "^2.24.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "pg": "^8.0.3",
+    "ping": "^0.2.3",
+    "systeminformation": "^4.23.8",
+    "telegraf": "^3.38.0",
+    "telegraf-command-parts": "^1.0.3",
+    "telegraf-i18n": "^6.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
