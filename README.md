@@ -25,5 +25,5 @@ node src/index.js
 
 ## Next steps
 
-[x] Basic functions
-[ ] Detail ping function
+- [x] Basic functions
+- [ ] Detail ping function
